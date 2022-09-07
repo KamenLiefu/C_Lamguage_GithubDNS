@@ -1,0 +1,11 @@
+140.82.114.4 github.com 
+20.205.243.166 github.com
+20.205.243.166 www.github.com
+8.7.198.45 gist.github.com
+173.236.212.42 gitHub.global.ssl.fastly.net
+185.199.109.153 assets-cdn.github.com
+0.0.0.0 raw.githubusercontent.com
+185.199.110.133 gist.githubusercontent.com
+185.199.111.154 github.githubassets.com
+20.205.243.165 codeload.github.com
+20.205.243.168 api.github.com
